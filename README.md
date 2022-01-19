@@ -1,33 +1,26 @@
-<!--
-This is a template for datasets in the Fatiando a Terra collection.
+# Britain - Airborne total-field magnetic anomaly
 
-When adding a new dataset, fill out the information below. Search for all
-instances of "CHANGEME" and replace with the relevant information.
+This is a digitized version of an airborne magnetic survey of Britain. Data are
+sampled where flight lines crossed contours on the archive maps. Contains only
+the total field magnetic anomaly, not the magnetic field intensity measurements
+or corrections.
 
-You probably also want to edit the conda environment.yml file to give the
-environment a new name and add/remove dependencies.
+> Contains British Geological Survey materials © UKRI 2021.
 
-You can delete this comment once done.
--->
-
-# Location - Data type
-
-CHANGEME: A few sentences about the dataset and a plot should go here.
-
-![CHANGEME: The alt text of the image.](preview.jpg)
+![Pseudo-color plot of the magnetic anomaly line data.](preview.jpg)
 
 | | Summary |
 |--:|:--|
-| File | `CHANGEME.csv` |
+| File | `britain-magnetic.csv.xz` |
 | Size | CHANGEME Mb |
-| Version | [CHANGEME](https://github.com/fatiando-data/CHANGEME/releases/latest) |
-| DOI | [CHANGEME](https://doi.org/CHANGEME) |
+| Version | [v1](https://github.com/fatiando-data/britain-magnetic/releases/latest) |
+| DOI | https://doi.org/10.5281/zenodo.5879260 |
 | License | [CC-BY](https://creativecommons.org/licenses/by/4.0/) |
 | MD5 | `md5:CHANGEME` |
 | SHA256 | `sha256:CHANGEME` |
-| Source | CHANGEME: Citation and/or link to original data source |
-| Original license | CHANGEME: License (with link) of the original source |
-| Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/CHANGEME/blob/main/prepare.ipynb) |
+| Source | [British Geological Survey](https://www.bgs.ac.uk/datasets/gb-aeromagnetic-survey/) |
+| Original license | [Open Government Licence](https://www.bgs.ac.uk/bgs-intellectual-property-rights/open-government-licence/) |
+| Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/britain-magnetic/blob/main/prepare.ipynb) |
 
 ## About this repository
 
