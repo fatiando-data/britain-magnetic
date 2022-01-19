@@ -12,12 +12,12 @@ or corrections.
 | | Summary |
 |--:|:--|
 | File | `britain-magnetic.csv.xz` |
-| Size | CHANGEME Mb |
+| Size | 2.7 Mb |
 | Version | [v1](https://github.com/fatiando-data/britain-magnetic/releases/latest) |
 | DOI | https://doi.org/10.5281/zenodo.5879260 |
 | License | [CC-BY](https://creativecommons.org/licenses/by/4.0/) |
-| MD5 | `md5:CHANGEME` |
-| SHA256 | `sha256:CHANGEME` |
+| MD5 | `md5:8dbbda02c7e74f63adc461909358f056` |
+| SHA256 | `sha256:4e00894c2e0fa5b9c547719c8ac08adb6e788a7074c0dae9fb1b2767cf494b38` |
 | Source | [British Geological Survey](https://www.bgs.ac.uk/datasets/gb-aeromagnetic-survey/) |
 | Original license | [Open Government Licence](https://www.bgs.ac.uk/bgs-intellectual-property-rights/open-government-licence/) |
 | Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/britain-magnetic/blob/main/prepare.ipynb) |
