@@ -22,6 +22,15 @@ or corrections.
 | Original license | [Open Government Licence](https://www.bgs.ac.uk/bgs-intellectual-property-rights/open-government-licence/) |
 | Processing code | [`prepare.ipynb`](https://nbviewer.org/github/fatiando-data/britain-magnetic/blob/main/prepare.ipynb) |
 
+## Changes made
+
+> These are the changes made to the original dataset.
+
+* Datum was changed to WGS84.
+* Year was separated from the survey name.
+* Some fields were dropped.
+* Exported to compressed CSV format.
+
 ## About this repository
 
 This is a place to format and prepare the original dataset for use in our
